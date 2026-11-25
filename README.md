@@ -7,6 +7,7 @@ A small LLM running in [Ollama](https://ollama.com) decides which tool to use, a
 ![MCP](https://img.shields.io/badge/protocol-MCP-1F3A5F)
 ![Ollama](https://img.shields.io/badge/LLM-Ollama-1B7F79)
 ![Platform](https://img.shields.io/badge/launchers-Windows-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Why this project
 
@@ -188,6 +189,16 @@ Do not use `print()` in the server: stdout is the MCP transport. Log to stderr i
 
 A detailed step-by-step guide with diagrams is available in `docs/Geo_MCP_Ollama_Project_Guide.docx`.
 
+## Author
+
+**Dr. Ali Abbas**
+Software engineer and researcher (Computer Vision, GIS, UAV systems, embedded and Android development)
+
+- Email: [aabbas7@gmail.com](mailto:aabbas7@gmail.com)
+- Website: [aabbas77-web.github.io](https://aabbas77-web.github.io)
+
+Questions, bug reports and collaboration ideas are welcome. Please open an issue or get in touch by email.
+
 ## License
 
-No license has been chosen yet. Add a `LICENSE` file (for example MIT) before publishing.
+This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 Dr. Ali Abbas.
