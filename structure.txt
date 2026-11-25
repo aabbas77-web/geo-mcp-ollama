@@ -1,0 +1,4 @@
+geo-mcp-ollama/
+├── geo_server.py       # GIS MCP Server (FastMCP)
+├── ollama_client.py    # MCP Client with Ollama
+└── requirements.txt
