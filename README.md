@@ -1,5 +1,5 @@
 ![image alt](https://github.com/aabbas77-web/AliSoft/blob/main/AliSoft128Transparent.png)
-# [AliSoft](https://hodhods.com) Embroidery
+# [AliSoft](https://hodhods.com) Geo MCP Ollama
 # By Dr. Ali Abbas aabbas7@gmail.com
 # Programming Language: C++Builder 5
 ## I am trying to revive the programs I developed throughout my long career
