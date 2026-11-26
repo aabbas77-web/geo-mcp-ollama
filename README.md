@@ -4,6 +4,7 @@
 # Programming Language: Python
 
 **Geo MCP Ollama**
+Connecting GIS & Local LLMs: Geo MCP with Ollama Tutorial
 [![Embroidery Tools](https://github.com/aabbas77-web/geo-mcp-ollama/blob/main/images/GeoMCP.jpg)](https://youtu.be/lrVTjMdzm8E)
 
 A fully local AI assistant that answers GIS questions by calling real geospatial tools.
