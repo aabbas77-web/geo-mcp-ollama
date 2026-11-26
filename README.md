@@ -1,4 +1,12 @@
-# Geo MCP Ollama
+![image alt](https://github.com/aabbas77-web/AliSoft/blob/main/AliSoft128Transparent.png)
+# [AliSoft](https://hodhods.com) Embroidery
+# By Dr. Ali Abbas aabbas7@gmail.com
+# Programming Language: C++Builder 5
+## I am trying to revive the programs I developed throughout my long career
+## This Program since 21/07/2004
+
+**Geo MCP Ollama**
+[![Embroidery Tools](https://github.com/aabbas77-web/geo-mcp-ollama/blob/main/images/GeoMCP.jpg)](https://youtu.be/lrVTjMdzm8E)
 
 A fully local AI assistant that answers GIS questions by calling real geospatial tools.
 A small LLM running in [Ollama](https://ollama.com) decides which tool to use, a [FastMCP](https://gofastmcp.com) server executes it with [Shapely](https://shapely.readthedocs.io), and the LLM explains the result. No cloud service and no API keys.
